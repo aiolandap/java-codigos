@@ -1,6 +1,6 @@
 package Fundamentos.fundamentos;
 
-public class conversaoTipoPrimitivoNumerico {
+public class ConversaoTipoPrimitivoNumerico {
 	public static void main(String[] args) {
 		double a = 1; //implícita
 		System.out.println(a);
