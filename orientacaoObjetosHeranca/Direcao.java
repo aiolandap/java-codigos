@@ -1,4 +1,4 @@
-package Fundamentos.orientacaoObjetos_Heranca;
+package Fundamentos.orientacaoObjetosHeranca;
 
 public enum Direcao {
 	NORTE, LESTE, SUL, OESTE;

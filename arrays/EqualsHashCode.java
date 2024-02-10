@@ -1,6 +1,6 @@
 package Fundamentos.arrays;
 
-public class EqualsHashcode {
+public class EqualsHashCode {
 	public static void main(String[] args) {
 		Usuario u1 = new Usuario();
 		u1.nome = "Alessandra";

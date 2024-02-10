@@ -1,4 +1,4 @@
-package Fundamentos.fundamentos_operadores;
+package Fundamentos.fundamentosOperadores;
 
 import java.util.Scanner;
 

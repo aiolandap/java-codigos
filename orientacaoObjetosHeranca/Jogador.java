@@ -1,4 +1,4 @@
-package Fundamentos.orientacaoObjetos_Heranca;
+package Fundamentos.orientacaoObjetosHeranca;
 
 public class Jogador {
 	int x;
