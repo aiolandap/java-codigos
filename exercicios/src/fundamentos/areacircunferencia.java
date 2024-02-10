@@ -7,5 +7,6 @@ public class areacircunferencia {
 		double area = 0;
 		area = pi*raio*raio;
 		System.out.println("A área é: " + area);
+		//Alterando arquivo	
 	}
 }
